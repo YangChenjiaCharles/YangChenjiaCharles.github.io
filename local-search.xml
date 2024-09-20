@@ -8,7 +8,7 @@
     <link href="/2024/09/20/X-2-2-X/"/>
     <url>/2024/09/20/X-2-2-X/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://zh.numberempire.com/graphingcalculator.php?functions=x%5E2,2%5Ex&xmin=-69.338332&xmax=51.384452&ymin=-34.116412&ymax=46.365546&var=x">本题函数图像</a><br>这是函数图像，非常轻松可以看出答案<br>x1&#x3D;2,x2&#x3D;4,x3&#x3D;?<br>事实上……<br>x3≈-0.7666<br>诡异的答案<br>你听懂了吗？</p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://zh.numberempire.com/graphingcalculator.php?functions=x%5E2,2%5Ex&xmin=-69.338332&xmax=51.384452&ymin=-34.116412&ymax=46.365546&var=x">本题函数图像</a><br>这是函数图像，非常轻松可以看出答案<br>x1&#x3D;2,x2&#x3D;4,x3&#x3D;?<br>事实上……<br>x3&#x3D;-0.766664696<br>诡异的答案<br>你听懂了吗？</p>]]></content>
     
     
     <categories>
